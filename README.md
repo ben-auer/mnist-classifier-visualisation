@@ -9,7 +9,12 @@ This is an independent research project I (Ben Auer) undertook as part of the su
 
 ## Usage
 
-The Jupyter notebook is configured so that the parameters of any pre-trained non-convolutional MNIST classifier DNN can be loaded and its hidden neurons visualised. Alternatively a new DNN can be trained easily (with any neuron / layer configuration) and visualised. Visualisation images can also be saved and reloaded if desired. The code could likely be adapted for use with a convolutional classifier too, and I would be interested to see that if anyone wishes to do so.
+The following can be done straightforwardly in the Jupyter notebook:
+* Loading and visualising the hidden neurons of any pre-trained non-convolutional MNIST classifier DNN
+* Training and visualising a new classifier DNN (with any neuron / layer configuration)
+* Saving and reloading visualisation images (28x28)
+
+The code could likely be adapted for usage with convolutional DNNs too, and any contributions towards this would be welcomed with interest.
 
 ## License
 
