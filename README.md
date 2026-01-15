@@ -4,8 +4,8 @@ This is an independent research project I (Ben Auer) undertook as part of the su
 
 ## Files
 
-* [`Visualising Hidden Neurons Project Report Final.pdf`](Visualising Hidden Neurons Project Report Final.pdf): The final project report as a PDF (17 pp).
-* [`Visualising Hidden Neurons Code Final.ipynb`](Visualising Hidden Neurons Code Final.ipynb): The complete Jupyter notebook.
+* [`Visualising Hidden Neurons Project Report Final.pdf`](Visualising%20Hidden%20Neurons%20Project%20Report%20Final.pdf): The final project report as a PDF (17 pp).
+* [`Visualising Hidden Neurons Code Final.ipynb`](Visualising%20Hidden%20Neurons%20Code%20Final.ipynb): The complete Jupyter notebook.
 
 ## Usage
 
